@@ -1,5 +1,5 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/JinLong0314/JinLong0314/workflows/wakatime-stats/badge.svg)](https://github.com/JinLong0314/JinLong0314/actions)
+[![Actions Status](https://github.com/JinLong0314/JinLong0314/workflows/update-gh-activity/badge.svg)](https://github.com/JinLong0314/JinLong0314/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
 <!-- <p align="center">
@@ -67,8 +67,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 1. 💪 Opened PR [#260](https://github.com/DLu/ros_map/pull/260) in [DLu/ros_map](https://github.com/DLu/ros_map)
 2. ❗ Opened issue [#360](https://github.com/d60/twikit/issues/360) in [d60/twikit](https://github.com/d60/twikit)
 3. 💪 Opened PR [#246](https://github.com/DLu/ros_map/pull/246) in [DLu/ros_map](https://github.com/DLu/ros_map)
-4. 🎉 Merged PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
-5. 💪 Opened PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
+4. 🎉 Merged PR [#1](https://github.com/JinLong0314/JinLong0314.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/JinLong0314/JinLong0314.github.io)
+5. 💪 Opened PR [#1](https://github.com/JinLong0314/JinLong0314.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/JinLong0314/JinLong0314.github.io)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
