@@ -4,8 +4,8 @@
 <br>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://socialify.git.ci/JinLong0314/JinLong0314/image?custom_language=Python&font=Inter&language=1&name=1&pattern=Plus" alt="JinLong0314 Banner" height="220"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinLong0314&hide_border=true" alt="Top Languages" height="220"/>
+  <img src="https://socialify.git.ci/JinLong0314/JinLong0314/image?custom_language=Python&font=Inter&language=1&name=1&pattern=Plus" alt="JinLong0314 Banner" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinLong0314&hide_border=true" alt="Top Languages" height="200"/>
 </div>
 
 <br>
