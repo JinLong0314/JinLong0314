@@ -5,6 +5,7 @@
 <!-- <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p> -->
+<img src="https://socialify.git.ci/JinLong0314/JinLong0314/image?custom_language=Python&font=Inter&language=1&name=1&pattern=Plus&theme=Light" alt="JinLong0314" width="700" height="300" />
 
 ![JinLong0314](https://socialify.git.ci/JinLong0314/JinLong0314/image?custom_language=Python&font=Inter&language=1&name=1&pattern=Plus&theme=Light)
 
