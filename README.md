@@ -1,14 +1,12 @@
 [![Actions Status](https://github.com/JinLong0314/JinLong0314/workflows/wakatime-stats/badge.svg)](https://github.com/JinLong0314/JinLong0314/actions)
 [![Actions Status](https://github.com/JinLong0314/JinLong0314/workflows/update-gh-activity/badge.svg)](https://github.com/JinLong0314/JinLong0314/actions)
-![]([https://visitor-badge.glitch.me/badge?](https://visitor-badge-deno.deno.dev/JinLong0314.JinLong0314.svg)
+![](https://visitor-badge-deno.deno.dev/JinLong0314.JinLong0314.svg)
 
 <!-- <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p> -->
 
-<p align="center">
-  <img src="https://socialify.git.ci/JinLong0314/JinLong0314/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="JinLong0314" width="700" height="300" />
-</p>
+![JinLong0314](https://socialify.git.ci/JinLong0314/JinLong0314/image?custom_language=Python&font=Inter&language=1&name=1&pattern=Plus&theme=Light)
 
 <p align="center">
 <br/>
