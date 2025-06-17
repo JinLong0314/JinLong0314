@@ -1,6 +1,6 @@
 [![Actions Status](https://github.com/JinLong0314/JinLong0314/workflows/wakatime-stats/badge.svg)](https://github.com/JinLong0314/JinLong0314/actions)
 [![Actions Status](https://github.com/JinLong0314/JinLong0314/workflows/update-gh-activity/badge.svg)](https://github.com/JinLong0314/JinLong0314/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=JinLong0314.JinLong0314)
+![]([https://visitor-badge.glitch.me/badge?](https://visitor-badge-deno.deno.dev/JinLong0314.JinLong0314.svg)
 
 <!-- <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
