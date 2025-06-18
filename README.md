@@ -17,7 +17,6 @@
 
 
 ---
-# 
 
 <!--START_SECTION:activity-->
 
