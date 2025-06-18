@@ -15,13 +15,21 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31afscsa66thkz2rxnganseg5i3a&count=5&width=600" height="180"/>
 </div>
 
+
+---
+# 
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
+---
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
