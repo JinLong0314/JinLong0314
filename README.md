@@ -1,5 +1,5 @@
 [![Actions Status](https://github.com/JinLong0314/JinLong0314/workflows/wakatime-stats/badge.svg)](https://github.com/JinLong0314/JinLong0314/actions)
-[![Actions Status](https://github.com/JinLong0314/JinLong0314/workflows/update-gh-activity/badge.svg)](https://github.com/JinLong0314/JinLong0314/actions)
+[![Actions Status](https://github.com/JinLong0314/JinLong0314/workflows/update-gh-activity-new/badge.svg)](https://github.com/JinLong0314/JinLong0314/actions)
 ![](https://visitor-badge-deno.deno.dev/JinLong0314.JinLong0314.svg)
 <br>
 
