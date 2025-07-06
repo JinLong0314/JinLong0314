@@ -25,13 +25,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 90.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 33 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,17 +49,6 @@
 🌃 Evening                90 commits          ███████████░░░░░░░░░░░░░░   42.06 % 
 🌙 Night                  61 commits          ███████░░░░░░░░░░░░░░░░░░   28.50 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Tuesday                  66 commits          ████████░░░░░░░░░░░░░░░░░   30.84 % 
-Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Thursday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Saturday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Sunday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -66,36 +57,15 @@ Sunday                   17 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
+Markdown                 6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             ████████████░░░░░░░░░░░░░   47.06 % 
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+md                       3 mins              ███████████████░░░░░░░░░░   59.82 % 
+Unknown Project          2 mins              ██████████░░░░░░░░░░░░░░░   40.18 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
-
-
- Last Updated on 05/07/2025 18:47:52 UTC
+ Last Updated on 06/07/2025 12:50:37 UTC
 <!--END_SECTION:waka-->
 
 
