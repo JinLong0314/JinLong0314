@@ -25,13 +25,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2059%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-232.8%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 100.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 33 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,6 +49,17 @@
 🌃 Evening                112 commits         ███████████░░░░░░░░░░░░░░   44.80 % 
 🌙 Night                  64 commits          ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
 ```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Tuesday                  71 commits          ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Wednesday                50 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Friday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Saturday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Sunday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+```
 
 
 📊 **This Week I Spent My Time On** 
@@ -57,12 +70,34 @@
 💬 Programming Languages: 
 No Activity Tracked This Week
 
+🔥 Editors: 
+No Activity Tracked This Week
+
 🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
 No Activity Tracked This Week
 ```
 
+**I Mostly Code in Python** 
 
- Last Updated on 18/08/2025 12:57:55 UTC
+```text
+Python                   9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
+
+
+ Last Updated on 18/08/2025 18:54:06 UTC
 <!--END_SECTION:waka-->
 
 
