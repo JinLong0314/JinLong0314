@@ -25,9 +25,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-249.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -41,23 +41,32 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I Mostly Code in Python** 
+**I'm a Night 🦉** 
 
 ```text
-Python                   9 repos             █████████████░░░░░░░░░░░░   52.94 % 
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+🌞 Morning                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+🌆 Daytime                71 commits          ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+🌃 Evening                119 commits         ███████████░░░░░░░░░░░░░░   45.25 % 
+🌙 Night                  64 commits          ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
 ```
 
 
+📊 **This Week I Spent My Time On** 
 
-**Timeline**
+```text
+🕑︎ Time Zone: Asia/Shanghai
 
-![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
+💬 Programming Languages: 
+Markdown                 25 mins             ██████████████████████░░░   88.47 % 
+Python                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+
+🐱‍💻 Projects: 
+新架构                      25 mins             ██████████████████████░░░   88.47 % 
+CTFd                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+```
 
 
- Last Updated on 16/09/2025 18:48:10 UTC
+ Last Updated on 17/09/2025 12:52:28 UTC
 <!--END_SECTION:waka-->
 
 
