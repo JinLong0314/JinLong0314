@@ -25,9 +25,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -41,23 +41,35 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I Mostly Code in Python** 
+**I'm a Night 🦉** 
 
 ```text
-Python                   6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Markdown                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+🌆 Daytime                240 commits         ████████████░░░░░░░░░░░░░   46.69 % 
+🌃 Evening                217 commits         ███████████░░░░░░░░░░░░░░   42.22 % 
+🌙 Night                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 ```
 
 
+📊 **This Week I Spent My Time On** 
 
-**Timeline**
+```text
+🕑︎ Time Zone: Asia/Shanghai
 
-![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
+💬 Programming Languages: 
+Python                   10 hrs 13 mins      █████████████████████░░░░   84.11 % 
+Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Git Config               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+
+🐱‍💻 Projects: 
+aist-4010-fall-2025-a-2  8 hrs 37 mins       ██████████████████░░░░░░░   70.94 % 
+FinalYearProject         3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+```
 
 
- Last Updated on 03/11/2025 18:48:03 UTC
+ Last Updated on 04/11/2025 12:58:03 UTC
 <!--END_SECTION:waka-->
 
 
