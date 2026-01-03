@@ -25,9 +25,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2033%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.56%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -41,23 +39,8 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I Mostly Code in Python** 
 
-```text
-Python                   6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Markdown                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
-
-
- Last Updated on 02/01/2026 18:53:12 UTC
+ Last Updated on 03/01/2026 12:54:50 UTC
 <!--END_SECTION:waka-->
 
 
