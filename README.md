@@ -25,9 +25,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.58%20million%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,6 +49,17 @@
 🌃 Evening                240 commits         ███████████░░░░░░░░░░░░░░   45.89 % 
 🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Tuesday                  51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Wednesday                224 commits         ███████████░░░░░░░░░░░░░░   42.83 % 
+Thursday                 135 commits         ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Friday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Saturday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+```
 
 
 📊 **This Week I Spent My Time On** 
@@ -57,14 +68,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     54 mins             █████████████░░░░░░░░░░░░   52.43 % 
+Docker                   49 mins             ████████████░░░░░░░░░░░░░   47.49 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🔥 Editors: 
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FinalYearProject         1 hr 43 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
- Last Updated on 24/02/2026 13:24:21 UTC
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
+
+
+ Last Updated on 24/02/2026 19:31:46 UTC
 <!--END_SECTION:waka-->
 
 
