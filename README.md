@@ -57,19 +57,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     2 hrs 37 mins       █████████████████░░░░░░░░   69.24 % 
-Docker                   49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+HTML                     1 hr 43 mins        █████████████████████░░░░   83.23 % 
+CSS                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-cisc3003-dc22715-2026    1 hr 58 mins        █████████████░░░░░░░░░░░░   51.93 % 
-FinalYearProject         1 hr 49 mins        ████████████░░░░░░░░░░░░░   48.07 % 
+cisc3003-dc22715-2026    1 hr 58 mins        ████████████████████████░   95.14 % 
+FinalYearProject         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 
 
- Last Updated on 03/03/2026 13:15:25 UTC
+ Last Updated on 04/03/2026 13:14:30 UTC
 <!--END_SECTION:waka-->
 
 
