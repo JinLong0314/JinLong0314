@@ -25,9 +25,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,17 +49,6 @@
 🌃 Evening                273 commits         ███████████░░░░░░░░░░░░░░   45.05 % 
 🌙 Night                  53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Tuesday                  57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Wednesday                248 commits         ██████████░░░░░░░░░░░░░░░   40.92 % 
-Thursday                 161 commits         ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-Friday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Saturday                 25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Sunday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -68,35 +57,14 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
+CSS                      0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+cisc3003-dc22715-2026    0 secs              █████████████████████████   100.00 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
-
-
- Last Updated on 31/03/2026 18:50:59 UTC
+ Last Updated on 01/04/2026 12:32:10 UTC
 <!--END_SECTION:waka-->
 
 
