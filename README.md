@@ -25,19 +25,19 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.51%20million%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 545.0 kB Used in GitHub's Storage 
  > 
-> 🏆 67 Contributions in the Year 2026
+> 🏆 68 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -48,6 +48,17 @@
 🌆 Daytime                262 commits         ██████████░░░░░░░░░░░░░░░   41.92 % 
 🌃 Evening                281 commits         ███████████░░░░░░░░░░░░░░   44.96 % 
 🌙 Night                  53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Tuesday                  57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Wednesday                255 commits         ██████████░░░░░░░░░░░░░░░   40.80 % 
+Thursday                 165 commits         ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+Friday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Saturday                 29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Sunday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 
 
@@ -63,13 +74,34 @@ Git Config               26 mins             ████░░░░░░░�
 Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
+🔥 Editors: 
+VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+
 🐱‍💻 Projects: 
 FinalYearProject         2 hrs 40 mins       █████████████████████████   99.77 % 
 Project                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+
+💻 Operating System: 
+Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
- Last Updated on 20/04/2026 12:38:29 UTC
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
+
+
+ Last Updated on 20/04/2026 18:51:24 UTC
 <!--END_SECTION:waka-->
 
 
