@@ -25,9 +25,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2039%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.27%20million%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -41,36 +39,24 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I Mostly Code in Python** 
 
 ```text
-🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-🌆 Daytime                292 commits         ██████████░░░░░░░░░░░░░░░   39.95 % 
-🌃 Evening                326 commits         ███████████░░░░░░░░░░░░░░   44.60 % 
-🌙 Night                  71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
+**Timeline**
 
-💬 Programming Languages: 
-PHP                      1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   40.69 % 
-Other                    1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   38.44 % 
-CSS                      25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-
-🐱‍💻 Projects: 
-cisc3003-dc22715-2026    2 hrs 1 min         ██████████████████░░░░░░░   73.40 % 
-Project                  24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-mmn                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-```
+![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 12:32:06 UTC
+ Last Updated on 17/05/2026 18:51:21 UTC
 <!--END_SECTION:waka-->
 
 
