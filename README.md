@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.27%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -41,68 +41,8 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-🌆 Daytime                292 commits         ██████████░░░░░░░░░░░░░░░   39.95 % 
-🌃 Evening                326 commits         ███████████░░░░░░░░░░░░░░   44.60 % 
-🌙 Night                  71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Tuesday                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Wednesday                294 commits         ██████████░░░░░░░░░░░░░░░   40.22 % 
-Thursday                 193 commits         ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-Friday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Saturday                 34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Sunday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-PHP                      51 mins             ████████████░░░░░░░░░░░░░   48.82 % 
-CSS                      25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-Other                    19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Git Config               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-
-🔥 Editors: 
-VS Code                  1 hr 6 mins         ████████████████░░░░░░░░░   62.70 % 
-Unknown Editor           39 mins             █████████░░░░░░░░░░░░░░░░   37.30 % 
-
-🐱‍💻 Projects: 
-cisc3003-dc22715-2026    1 hr 45 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
-
-
- Last Updated on 19/05/2026 19:15:38 UTC
+ Last Updated on 20/05/2026 13:10:15 UTC
 <!--END_SECTION:waka-->
 
 
