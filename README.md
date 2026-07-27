@@ -25,9 +25,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.29%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2027%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,6 +51,17 @@
 🌃 Evening                327 commits         ███████████░░░░░░░░░░░░░░   44.67 % 
 🌙 Night                  71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 ```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Tuesday                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Wednesday                294 commits         ██████████░░░░░░░░░░░░░░░   40.16 % 
+Thursday                 193 commits         ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+Friday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Saturday                 34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Sunday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+```
 
 
 📊 **This Week I Spent My Time On** 
@@ -59,12 +72,40 @@
 💬 Programming Languages: 
 No Activity Tracked This Week
 
+🔥 Editors: 
+No Activity Tracked This Week
+
 🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 14:52:46 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
+
+
+ Last Updated on 27/07/2026 20:06:30 UTC
 <!--END_SECTION:waka-->
 
 
