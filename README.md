@@ -29,11 +29,11 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.60%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 690.3 kB Used in GitHub's Storage 
+> 📦 690.4 kB Used in GitHub's Storage 
  > 
 > 🏆 104 Contributions in the Year 2026
  > 
@@ -46,21 +46,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-🌆 Daytime                297 commits         █████████░░░░░░░░░░░░░░░░   37.79 % 
-🌃 Evening                350 commits         ███████████░░░░░░░░░░░░░░   44.53 % 
-🌙 Night                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Wednesday                294 commits         █████████░░░░░░░░░░░░░░░░   37.40 % 
-Thursday                 193 commits         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-Friday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Saturday                 35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Sunday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+🌞 Morning                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+🌆 Daytime                302 commits         █████████░░░░░░░░░░░░░░░░   37.89 % 
+🌃 Evening                352 commits         ███████████░░░░░░░░░░░░░░   44.17 % 
+🌙 Night                  95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 ```
 
 
@@ -72,13 +61,7 @@ Sunday                   37 commits          █░░░░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -88,24 +71,8 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
-
-
- Last Updated on 19/08/2026 19:04:14 UTC
+ Last Updated on 20/08/2026 13:02:52 UTC
 <!--END_SECTION:waka-->
 
 
