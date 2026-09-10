@@ -29,7 +29,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%202%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.10%20million%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,6 +51,17 @@
 🌃 Evening                395 commits         ██████████░░░░░░░░░░░░░░░   41.45 % 
 🌙 Night                  128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
 ```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Tuesday                  231 commits         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Wednesday                297 commits         ████████░░░░░░░░░░░░░░░░░   31.16 % 
+Thursday                 193 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Friday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Saturday                 46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Sunday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+```
 
 
 📊 **This Week I Spent My Time On** 
@@ -59,45 +70,67 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     3 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.08 % 
-PowerShell               1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Python                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Bash                     3 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.73 % 
+PowerShell               1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Python                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Markdown                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 16 mins       ███████████████████░░░░░░   76.79 % 
+Codex Vscode             1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
 
 🐱‍💻 Projects: 
-MOCSCTF2026_prepare      7 hrs 40 mins       ███████████████████████░░   92.83 % 
-CISC7005                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-realtime-voice-chat      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-CISC7020                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-realtime-voice-chat-2    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+MOCSCTF2026_prepare      7 hrs 40 mins       ████████████████████████░   94.10 % 
+CISC7005                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+realtime-voice-chat      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+realtime-voice-chat-2    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+
+💻 Operating System: 
+Windows                  8 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 12 mins (99.29%)
+⏱ AI Coding Time: 8 hrs 6 mins (99.28%)
 
 ✍️ 711 lines written by AI, 1 lines written by hand (99.86% AI-written)
 
-🔤 4,056,107 Input Tokens, 748,109 Output Tokens
+🔤 4,017,013 Input Tokens, 747,889 Output Tokens
 
-💵 $378.46 Estimated AI Cost This Week
+💵 $378.45 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 49 AI Prompts
+🧠 40 AI Sessions, 46 AI Prompts
 
 GPT                      721 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 1,503 characters per prompt
+📚 Verbose Prompter — average 1,600 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
+**I Mostly Code in Python** 
 
- Last Updated on 10/09/2026 16:15:28 UTC
+```text
+Python                   7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
+
+
+ Last Updated on 10/09/2026 21:07:40 UTC
 <!--END_SECTION:waka-->
 
 
