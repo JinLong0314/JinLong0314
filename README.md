@@ -29,7 +29,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.86%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,21 +46,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-🌆 Daytime                387 commits         █████████░░░░░░░░░░░░░░░░   35.18 % 
-🌃 Evening                444 commits         ██████████░░░░░░░░░░░░░░░   40.36 % 
-🌙 Night                  170 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Tuesday                  315 commits         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-Wednesday                318 commits         ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-Thursday                 193 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Saturday                 53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Sunday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+🌞 Morning                114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌆 Daytime                412 commits         █████████░░░░░░░░░░░░░░░░   34.19 % 
+🌃 Evening                479 commits         ██████████░░░░░░░░░░░░░░░   39.75 % 
+🌙 Night                  200 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 ```
 
 
@@ -76,15 +65,8 @@ Python                   1 hr 6 mins         ████░░░░░░░�
 Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
-🔥 Editors: 
-VS Code                  6 hrs 16 mins       ████████████████████░░░░░   81.61 % 
-Codex Vscode             1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-
 🐱‍💻 Projects: 
 MOCSCTF2026_prepare      7 hrs 40 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,24 +92,8 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Python** 
 
-```text
-Python                   7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
-
-
- Last Updated on 14/09/2026 21:58:44 UTC
+ Last Updated on 15/09/2026 16:47:13 UTC
 <!--END_SECTION:waka-->
 
 
