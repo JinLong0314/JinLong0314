@@ -29,11 +29,11 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%202%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.86%20million%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 690.4 kB Used in GitHub's Storage 
+> 📦 690.5 kB Used in GitHub's Storage 
  > 
 > 🏆 110 Contributions in the Year 2026
  > 
@@ -46,10 +46,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-🌆 Daytime                412 commits         █████████░░░░░░░░░░░░░░░░   34.19 % 
-🌃 Evening                479 commits         ██████████░░░░░░░░░░░░░░░   39.75 % 
-🌙 Night                  200 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+🌞 Morning                123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+🌆 Daytime                427 commits         ████████░░░░░░░░░░░░░░░░░   33.68 % 
+🌃 Evening                500 commits         ██████████░░░░░░░░░░░░░░░   39.43 % 
+🌙 Night                  218 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Tuesday                  411 commits         ████████░░░░░░░░░░░░░░░░░   32.41 % 
+Wednesday                342 commits         ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Thursday                 193 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Friday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Saturday                 61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Sunday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
 
@@ -59,41 +70,61 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     3 hrs 58 mins       █████████████░░░░░░░░░░░░   51.79 % 
-PowerShell               1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Python                   1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Other                    14 mins             ███████████████████░░░░░░   74.25 % 
+Python                   5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+
+🔥 Editors: 
+Codex Vscode             5 mins              █████████████████████████   99.28 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🐱‍💻 Projects: 
-MOCSCTF2026_prepare      7 hrs 40 mins       █████████████████████████   100.00 % 
+MOCSCTF2026_prepare      5 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 37 mins (99.24%)
+⏱ AI Coding Time: 5 mins (100.0%)
 
-✍️ 711 lines written by AI, 1 lines written by hand (99.86% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,828,380 Input Tokens, 747,316 Output Tokens
+🔤 206,325 Input Tokens, 5,591 Output Tokens
 
-💵 $378.17 Estimated AI Cost This Week
+💵 $8.11 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 41 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
-GPT                      721 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 1,792 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 20 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
- Last Updated on 15/09/2026 16:47:13 UTC
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
+
+
+ Last Updated on 15/09/2026 21:41:02 UTC
 <!--END_SECTION:waka-->
 
 
