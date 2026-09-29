@@ -29,11 +29,11 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.66%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 690.4 kB Used in GitHub's Storage 
+> 📦 690.5 kB Used in GitHub's Storage 
  > 
 > 🏆 160 Contributions in the Year 2026
  > 
@@ -51,17 +51,6 @@
 🌃 Evening                568 commits         ██████████░░░░░░░░░░░░░░░   39.86 % 
 🌙 Night                  255 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Tuesday                  461 commits         ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Wednesday                378 commits         ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Thursday                 219 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Friday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Saturday                 64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Sunday                   39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -72,13 +61,7 @@ Sunday                   39 commits          █░░░░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -88,24 +71,8 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
 
-```text
-Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
-
-
- Last Updated on 28/09/2026 23:28:05 UTC
+ Last Updated on 29/09/2026 18:01:20 UTC
 <!--END_SECTION:waka-->
 
 
