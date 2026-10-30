@@ -29,7 +29,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,17 +51,6 @@
 🌃 Evening                1009 commits        █████████░░░░░░░░░░░░░░░░   37.95 % 
 🌙 Night                  665 commits         ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Tuesday                  914 commits         █████████░░░░░░░░░░░░░░░░   34.37 % 
-Wednesday                580 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Thursday                 405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Friday                   352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Saturday                 96 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Sunday                   50 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -72,13 +61,7 @@ Sunday                   50 commits          ░░░░░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -88,24 +71,8 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
 
-```text
-Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JinLong0314/JinLong0314/master/assets/bar_graph.png)
-
-
- Last Updated on 29/10/2026 22:57:14 UTC
+ Last Updated on 30/10/2026 17:57:45 UTC
 <!--END_SECTION:waka-->
 
 
